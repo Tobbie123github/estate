@@ -22,7 +22,7 @@ const Banner = () => {
             <div className="flex justify-around items-center ">
             {
             message && <p className="text-green-600 text-left">{message}</p>
-            };
+            }
             </div>
             <Search/>
         </section>
