@@ -7,7 +7,7 @@ const Footer = () => {
             <div className="flex justify-center items-center p-5 gap-4 text-xl" >
                 <p>Made with </p>
                 <RiHeart2Fill className="text-red-500 text-3xl"/>
-                <p> by <span className="text-red-500">Anirudha</span> </p>
+                <p> by <span className="text-red-500">Marshall</span> </p>
                 
             </div>
         </div>
