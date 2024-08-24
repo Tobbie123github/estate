@@ -24,7 +24,7 @@ function App() {
   }, []);
 
   if (loading) {
-    return <div className='flex w-full h-full justify-center items-center'>Loading...</div>; // Show loading indicator while auth state is being determined
+    return <div className='grid w-full h-screen place-items-center'>Loading...</div>; 
   }
 
   return (
